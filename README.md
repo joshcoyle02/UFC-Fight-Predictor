@@ -6,7 +6,7 @@ Step into the octagon with data! This machine learning model predicts UFC fight 
 ## Requirements
 pip install pandas numpy matplotlib scikit-learn
 
-Not to worry if you are unable to install thes elibraries, check out the live demo here: https://www.josh-coyle.com/ufc-predictor 
+Not to worry if you are unable to install these libraries, check out the live demo here: https://www.josh-coyle.com/ufc-predictor 
 
 
 ## 📊 The Data:
