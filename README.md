@@ -3,7 +3,10 @@
 # 🎯 Project Essence:
 Step into the octagon with data! This machine learning model predicts UFC fight outcomes by analyzing fighter statistics and combat metrics. Using Logistic Regression, the predictor evaluates two fighters head-to-head and forecasts the victor with confidence scores.
 
+## Requirements
 pip install pandas numpy matplotlib scikit-learn
+
+Not to worry if you are unable to install thes elibraries, check out the live demo here: https://www.josh-coyle.com/ufc-predictor 
 
 
 ## 📊 The Data:
